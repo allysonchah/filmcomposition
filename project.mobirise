@@ -108,11 +108,13 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Wes Anderson | Cinematography Composition",
+        "meta_descr": "Wes Anderson's composition style.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/the-grand-budapest-hotel-screencap-063-full.jpeg"
       },
       "components": [
         {
