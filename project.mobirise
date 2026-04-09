@@ -91,8 +91,8 @@
         "url": "https://fonts.googleapis.com/css?family=Cormorant+Infant:300,400,500,600,700,300i,400i,500i,600i,700i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "v9qaifo26g",
+    "favicon": "@PROJECT_PATH@/assets/images/original-693de9f1c7d2491f350b8a7fcb01d72a.jpeg",
+    "mbrsiteDomain": "jnqsczeen0",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
